@@ -1,2 +1,2 @@
 # YusufPlot-Launcher
-YusufPlot-Launcher
+A launcher for YusufPlot
